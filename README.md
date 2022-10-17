@@ -9,4 +9,4 @@ Let's first understand what trending topics are? A trending topic on social medi
 
 There's no doubt that social media has changed the way we communicate and connect with each other. With so many people using social media, it's no surprise that it's become a hotbed for trending topics. Whether it's a new meme, a controversial news story, or a heartwarming moment, social media is where people go to share and discuss the things happening in the world. And because of the way social media works, these topics can spread like wildfire, with everyone from celebrities to everyday people weighing in on the conversation.
 
-**Read the full article [here]()!**
+**Read the full article [here](https://pub.towardsai.net/scan-linkedin-posts-to-analyze-emotions-sentiments-and-trends-using-ai-7e9663d612d3)!**
